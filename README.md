@@ -1,9 +1,9 @@
 # Hi there 👋 I'm dcxz187!
 
-🎓 I'm a Computer Science undergraduate currently in my second year at University of Shanghai for Science and Technology.
+🎓 I'm a Computer Science undergraduate currently in my third year at University of Shanghai for Science and Technology.
 
 💻 I’m interested in:
-- Web Development 🌐
+- Web Developmen
 - Artificial Intelligence 🤖
 - CTF competitions 🕵️‍♂️
 - Open-source projects 🛠
